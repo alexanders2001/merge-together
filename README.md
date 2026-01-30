@@ -1,1 +1,4 @@
-# merge-together
+this
+is
+fine
+text
